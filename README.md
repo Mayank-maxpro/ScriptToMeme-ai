@@ -1,13 +1,14 @@
-# Precision Storyboard AI
+# ScriptToMeme AI
 
 AI-powered YouTube storyboard and metadata generator.
 
 ## What it does
 
 - Paste a YouTube script
-- Generate visual storyboard ideas
-- Generate searchable GIF queries
-- Generate YouTube titles, descriptions, tags, and chapters
+- It understands complete script and it's context.
+- Searches best multiple memes or GIF for each line as per context of script.
+- Provides multiple memes or GIF it founds.
+- Also can generate YouTube titles, descriptions, tags, and chapters
 - Configure audience, pacing, and visual style
 
 ## Tech
